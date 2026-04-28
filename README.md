@@ -1,15 +1,24 @@
-# websource
+# 🌐 Web Source
 
-AWS Workshop - websource
+Web application source code for AWS workshops.
 
 ## Overview
 
-Hands-on lab materials for AWS services and best practices.
+This is a hands-on workshop from the **AWS First Cloud Journey** series, designed to help beginners learn AWS services through practical exercises.
+
+## Workshop
+
+📖 **[Start the workshop](https://vanhoangkha.github.io/000062-websource/)**
+
+## Prerequisites
+
+- An AWS account
+- Basic understanding of cloud computing concepts
 
 ## Author
 
-**Kha Van Hoang** - Senior Cloud Security Engineer | AWS Community Leader
+**Van Hoang Kha** — Cloud Security Engineer | AWS Community Builder
 
 ## License
 
-MIT License - see [LICENSE](LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
