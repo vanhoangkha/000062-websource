@@ -1,4 +1,4 @@
-# 🌐 Web Source
+# Web Source
 
 Web application source code for AWS workshops.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000062-websource/)**
+**[Start the workshop](https://vanhoangkha.github.io/000062-websource/)**
 
 ## Prerequisites
 
